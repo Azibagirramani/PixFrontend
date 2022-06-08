@@ -1,0 +1,15 @@
+{
+  "name": "pixcap",
+  "version": "1.0.0",
+  "description": "PixCap",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "code": "npx tsc main.ts  && node main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
